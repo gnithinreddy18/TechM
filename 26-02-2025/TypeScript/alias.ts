@@ -5,7 +5,7 @@ type Employee={
 };
 var e1:Employee={
     id:1,
-    n:"Bhanu",
+    n:"nithin",
     sal: 56000
 };
 console.log(e1.id);
