@@ -1,6 +1,6 @@
 var e1 = {
     id: 1,
-    n: "Bhanu",
+    n: "nithin",
     sal: 56000
 };
 console.log(e1.id);
